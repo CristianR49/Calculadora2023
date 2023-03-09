@@ -14,7 +14,7 @@
                 Console.WriteLine("4 - Divisão");
                 Console.WriteLine("5 - Tabuada de um número");
 
-                Console.WriteLine("s - Sair");
+                Console.WriteLine("\ns - Sair");
 
                 string Operacao = Console.ReadLine();
                 if (Operacao != "1" && Operacao != "2" && Operacao != "3" && Operacao != "4" && Operacao != "5" && Operacao != "s")
